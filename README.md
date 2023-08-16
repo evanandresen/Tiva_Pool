@@ -33,6 +33,5 @@ The LEDs show the power level when a shot is being taken but otherwise show the 
 The LEDs on either side show the solids and stripes remaining and each side blinks when it is that players turn. 
 When the cue ball is potted, it can be replaced back on the table using the joystick and B2.
 
-__DEMO__
 Demo is shown on /PoolDemo.mp4
 
