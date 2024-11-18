@@ -35,3 +35,5 @@ When the cue ball is potted, it can be replaced back on the table using the joys
 
 Demo is shown on /PoolDemo.mp4
 
+![Example_screenshot](Pool_screenshot.png)
+
