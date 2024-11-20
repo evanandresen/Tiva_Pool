@@ -1,7 +1,7 @@
 # Tiva_Pool
 __Implementation of a pool game on a Tiva TM4C123G and daughterboard__
 
-##Implementation
+## Implementation
 
 __G8RTOS__
 This game was written under a custom Real-Time Operating System for the TM4C123G called G8RTOS. It uses a priority scheduler for the dynamic threads along with sleeping and semaphores for shared resources and data. Periodic threads and Aperiodic threads are also possible under the RTOS but only Aperiodic threads (ISRs) are used for button detection.
